@@ -42,7 +42,7 @@ streamlit run app.py
 ## Live Application
 
 **Streamlit App:**
-Add your deployed application link here.
+(https://student-registration-app-yydadtluxuv4vpzu8tv5ub.streamlit.app/)
 
 ## Learning Focus
 
